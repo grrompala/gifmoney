@@ -1,0 +1,17 @@
+/* Get a fancy font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Sigmar+One&display=swap');
+
+.title {
+font-family:'Sigmar One';
+text-decoration:underline;
+}
+
+.toolbar {
+background-color: DodgerBlue;
+font-family:Impact;
+}
+
+.dataTables_length label,
+.dataTables_filter label {color:#ffffff;}
+#DataTables_Table_0_length select {background-color:white}
+#DataTables_Table_0_filter input {background-color:white}
