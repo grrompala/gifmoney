@@ -1,2 +1,2 @@
 # gifmoney
-Shinymobile application for itemized tracking of personal pending supported by PostgreSQL database
+Shinymobile application for itemized tracking of personal spending. Supported by PostgreSQL database.
